@@ -1,18 +1,18 @@
 {
-  "name": "@codebalancers/mock-server",
+  "name": "@colamda/mock-server",
   "version": "1.0.12",
   "description": "Mock server written in Typescript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codebalancers/cb-mock-server.git"
+    "url": "git+https://github.com/colamda/mock-server.git"
   },
   "keywords": [],
-  "author": "codebalancers",
+  "author": "Colamda GmbH",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codebalancers/cb-mock-server/issues"
+    "url": "https://github.com/colamda/mock-server/issues"
   },
-  "homepage": "https://github.com/codebalancers/cb-mock-server",
+  "homepage": "https://github.com/colamda/mock-server",
   "scripts": {
     "clean": "rm -rf lib/",
     "compile": "tsc",
